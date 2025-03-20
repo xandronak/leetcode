@@ -1,0 +1,13 @@
+{
+  "name": "leetcode-tasks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "sort": "node sort",
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "husky": "^8.0.3"
+  }
+}
